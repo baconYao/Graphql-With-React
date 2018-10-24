@@ -30,20 +30,7 @@ var Home = function Home(props) {
       lineNumber: 5
     },
     __self: this
-  }, "Hey!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/sell",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, "Sell")));
+  }, "Hey!"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
@@ -70,4 +57,4 @@ var Home = function Home(props) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.437e63d0629307fdc8bc.hot-update.js.map
+//# sourceMappingURL=index.js.02c3d5e5d86d7144b26a.hot-update.js.map
